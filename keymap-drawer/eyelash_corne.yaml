@@ -149,11 +149,11 @@ layers:
   - $$mdi:apple-keyboard-option$$
   Fn:
   - '&studio_unlock'
-  - F1
-  - F2
-  - F3
-  - F4
-  - F5
+  - RGB SAI
+  - RGB SAD
+  - RGB COLOR HSB(0,0,100)
+  - RGB SPI
+  - RGB SPD
   - {t: '$$mdi:menu-up$$', s: '$$mdi:mouse$$'}
   - F6
   - F7
@@ -161,9 +161,9 @@ layers:
   - F9
   - F10
   - F11
-  - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:transfer$$', type: trans}
-  - $$mdi:mouse-left-click-outline$$
+  - RGB OFF
+  - RGB BRI
+  - RGB BRD
   - $$mdi:mouse-scroll-wheel$$
   - $$mdi:mouse-right-click-outline$$
   - '&mkp MB4'
@@ -176,7 +176,7 @@ layers:
   - $$mdi:mouse-right-click-outline$$
   - PRINTSCREEN
   - F12
-  - RGB TOG
+  - RGB ON
   - RGB HUI
   - RGB HUD
   - RGB EFF
