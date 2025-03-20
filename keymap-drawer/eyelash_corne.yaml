@@ -155,8 +155,8 @@ layers:
   - RGB SPI
   - RGB SPD
   - {t: '$$mdi:menu-up$$', s: '$$mdi:mouse$$'}
-  - F6
-  - F7
+  - '&bl BL_TOG'
+  - '&bl BL_INC'
   - F8
   - F9
   - F10
