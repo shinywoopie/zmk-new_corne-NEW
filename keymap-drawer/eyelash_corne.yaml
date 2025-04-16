@@ -48,7 +48,7 @@ layers:
   - $$mdi:keyboard-space$$
   - $$mdi:apple-keyboard-shift$$
   - SYMBOL
-  - RETURN
+  - $$mdi:apple-keyboard-option$$
   NUMBER:
   - $$mdi:keyboard-tab$$
   - F1
